@@ -1,4 +1,3 @@
-# CampusInfantil2016
-Repositorio para el campus infantil 2016.
+# Campus_Infantil_Peques_2016
+Repositorio para el Campus Infantil 2016, grupo peques.
 
-Hay una carpeta para cada grupo y dentro de cada una hay una carpeta por día de clase,en la que se especifica la planificación del día: Horario de actividades y presentaciones o material de apoyo.
